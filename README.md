@@ -1,7 +1,9 @@
 # CLASES DE GUITARRA
 
-## Nivel 1
+## Nivel Principiante
 
-| |
+| Clases |
 | -- |
-| [Clase 1](doc/clase-01.md) |
+| [Clase 01](doc/clase-01.md) |
+| [Clase 02](doc/clase-02.md) |
+| [Clase 03](doc/clase-03.md) |
